@@ -2,8 +2,7 @@
 
 **Course**: CS457(B) – Data Modeling and Implementation Techniques  
 **Author**: Gaurab Khadka  
-**Institution**: Islington College / London Metropolitan University  
-**Year**: 2021–22
+
 
 ---
 
